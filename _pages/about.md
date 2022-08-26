@@ -16,7 +16,7 @@ Aritificial Intelligence systems are vulnerable to various types of attacks such
 
 News
 ======
-July 4 2022 Our paper got accepted in ECCV 2022.
-2021 our paper "Prescriptive analytics with differential privacy" got accepted in International Journal of Data Science and Analytics.
-2021 our paper "" in BioData Mining journal.
+- **July 2022**: Our paper "Towards Effective and Robust Neural Trojan Defenses via Input Filtering" is accepted at ECCV 2022. 
+- **June 2021** : Our paper "Prescriptive analytics with differential privacy" got accepted in International Journal of Data Science and Analytics.
+- **May 2021** : Our paper "Personalized single-cell networks: a framework to predict the response of any gene to any drug for any patient" in BioData Mining journal.
 
