@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at [Applied Artificial Intelligence Institute](https://a2i2.deakin.edu.au/) at Deakin University, Victoria, Australia. I completed my PhD degree from Pattern Recognition and Data Analytics group (PRaDA) under the supervision of [A/Prof. Santu Rana](https://scholar.google.com.au/citations?user=S9PwnMYAAAAJ&hl=en), [A/Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/?_ga=2.184104422.1753328289.1661431642-1906180909.1656474726), [Dr. Thin Nguyen](https://scholar.google.com.au/citations?user=BlTfdtMAAAAJ) and [Alfred Deakin Prof. Svetha Venkatesh in the year 2018](https://svethav.github.io/).
+I am a Research Fellow at [Applied Artificial Intelligence Institute](https://a2i2.deakin.edu.au/) at Deakin University, Victoria, Australia. I completed my PhD degree from Pattern Recognition and Data Analytics group (PRaDA) under the supervision of [A/Prof. Santu Rana](https://scholar.google.com.au/citations?user=S9PwnMYAAAAJ&hl=en), [A/Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/?_ga=2.184104422.1753328289.1661431642-1906180909.1656474726), [Dr. Thin Nguyen](https://scholar.google.com.au/citations?user=BlTfdtMAAAAJ) and [Alfred Deakin Prof. Svetha Venkatesh](https://svethav.github.io/) in the year 2018.
 
 Research Interest
 ======
