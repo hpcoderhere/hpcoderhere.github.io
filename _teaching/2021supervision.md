@@ -1,7 +1,6 @@
 ---
 title: "Associate Supervisor"
 collection: teaching
-type: "Supervision"
 permalink: /teaching/2021-supervision
 venue: "Deakin University, Applied Artificial Intelligence Institute"
 location: "Waurn Ponds, Victoria, Australia"
