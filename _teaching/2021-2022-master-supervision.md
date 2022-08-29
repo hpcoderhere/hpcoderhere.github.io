@@ -1,7 +1,6 @@
 ---
 title: "Project supervision"
 collection: teaching
-type: "Master course"
 permalink: /teaching/2021-2022-master-supervision
 venue: "Deakin University, School of Information Technology"
 date: 2021-2022
