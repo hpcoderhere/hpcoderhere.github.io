@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor in Information Technology, Calicut University, India, 2007-2011
+* Masters in Computer Science and Engineering, Amrita University, India,  2011-2013
+* Ph.D in Machine Learning, Deakin University, Australia, 2015-2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Deakin University, Australia. Associate Research Fellow, 2018-now
+* Amrita University, Amrita Create. Research Associate, 2013-2015
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine learning
+* Backdoor attack and defense
+* Adversarial learning
+* Optimization
+* Health
+* Pytorch
 
 Publications
 ======
@@ -54,6 +48,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
