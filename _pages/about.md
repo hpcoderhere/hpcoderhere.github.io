@@ -13,11 +13,6 @@ I am a Research Fellow at [Applied Artificial Intelligence Institute](https://a2
 Research Interest
 ======
 Aritificial Intelligence systems are vulnerable to various types of attacks such as Trojan or backdoor attacks, and adversarial attacks. My current research interest is to expose these attacks and to propose potential defense startegies to make AI safe to use. 
-- **Backdoor attack and defense**
-- **Adversarial learning**
-- **Optimization**
-- **Privacy**
-- **Health**
 
 News
 ======
