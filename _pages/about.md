@@ -16,7 +16,8 @@ Aritificial Intelligence systems are vulnerable to various types of attacks such
 
 News
 ======
-- **July 2022**: Our paper "Towards Effective and Robust Neural Trojan Defenses via Input Filtering" is accepted at ECCV 2022. 
+- **September 2002**: Our paper "Momentum Adversarial Distillation: Handling Large Distribution Shifts in Data-Free Knowledge Distillation" has been accepted in NeurIPS 2022
+- **July 2022** : Our paper "Towards Effective and Robust Neural Trojan Defenses via Input Filtering" is accepted at ECCV 2022. 
 - **June 2021** : Our paper "Prescriptive analytics with differential privacy" got accepted in International Journal of Data Science and Analytics.
 - **May 2021** : Our paper "Personalized single-cell networks: a framework to predict the response of any gene to any drug for any patient" in BioData Mining journal.
 - **June 2020** : Our first paper in Trojan defense "Scalable Backdoor Detection in Neural Networks" got accepted at ECML 2020.
