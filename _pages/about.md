@@ -16,6 +16,7 @@ Artificial Intelligence systems are vulnerable to various types of attacks such 
 
 News
 ======
+- **Oct 2023** : Invited to be a mentor Women in Machine Learning (WiML) Workshop 2023.
 - **July 2023** : Our Workshop, "Backdoors in Deep Learning: The Good, the Bad, and the Ugly" has been accepted to NeurIPS 2023.
 - **June 2023** : Delivered a talk at MAIL Research Lab at VinUniversity about "Exploring Backdoor Intrusions, Defense Strategies, and the Path to Social Good".
 - **September 2022** : Our paper "Momentum Adversarial Distillation: Handling Large Distribution Shifts in Data-Free Knowledge Distillation" has been accepted in NeurIPS 2022.
