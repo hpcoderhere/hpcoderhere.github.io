@@ -13,7 +13,7 @@ main:
  #  url: /portfolio/
         
   - title: "Blog Posts"
-   url: https://haripriyaaharikumargithub.wordpress.com/
+   url: /https://haripriyaaharikumargithub.wordpress.com/
     
   - title: "CV"
     url: /cv/
