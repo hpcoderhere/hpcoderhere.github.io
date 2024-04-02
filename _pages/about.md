@@ -16,7 +16,7 @@ Artificial Intelligence systems are vulnerable to various types of attacks such 
 
 News
 ======
-- **March 2024**: Invited to be a keynote speaker at the Second International Conference on FOSS Approaches towards Computational Intelligence and Language Technology (FOSS-CIL T24).
+- **March 2024**: Invited to be a keynote speaker at the Second International Conference on FOSS Approaches towards Computational Intelligence and Language Technology (FOSS-CIL T24). 
 - **Jan 2024** : Invited to be a panellist of the Black in AI Emerging Leaders Grad prep program entitled, “MSc/Ph.D: What to expect".
 - **Oct 2023** : Invited to be a mentor in Women in Machine Learning (WiML) Workshop 2023.
 - **July 2023** : Our Workshop, "Backdoors in Deep Learning: The Good, the Bad, and the Ugly" has been accepted to NeurIPS 2023.
