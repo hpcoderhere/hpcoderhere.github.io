@@ -12,7 +12,7 @@ I am a Postdoctoral Research Fellow at [Applied Artificial Intelligence Institut
 
 Research Interest
 ======
-Artificial Intelligence systems are vulnerable to various types of attacks such as Trojan or backdoor attacks, and adversarial attacks. My research interest is to develop mechanisms to understand Adversarial Machine Learning such as adversarial attacks, and backdoor attacks. I focus on building frameworks to defend against such attacks in machine learning models to make them trustable and safe to use.
+Artificial Intelligence systems are vulnerable to various types of attacks such as Trojan or backdoor attacks, and adversarial attacks. My research interest is to develop mechanisms to understand Adversarial Machine Learning such as adversarial attacks, and backdoor attacks. I focus on building frameworks to defend against such attacks in machine learning models to make them trustable and safe to use. I am also interested in machine unlearning, data manifold analysis, out of distribution detection. 
 
 News
 ======
