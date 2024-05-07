@@ -16,6 +16,7 @@ Artificial Intelligence systems are vulnerable to various types of attacks such 
 
 News
 ======
+- **April 2024**: Our paper "Composite Concept Extraction through Backdooring" got accepted into Fine-Grained Visual Categorization, CVPR 2024 workshop.
 - **March 2024**: Delivered a keynote talk at the Second International Conference on FOSS Approaches towards Computational Intelligence and Language Technology (FOSS-CIL T24). 
 - **Jan 2024** : Served as a panellist in the Black in AI Emerging Leaders Grad prep program entitled, “MSc/Ph.D: What to expect".
 - **Oct 2023** : Invited to be a mentor in Women in Machine Learning (WiML) Workshop 2023.
