@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow at [Applied Artificial Intelligence Institute](https://a2i2.deakin.edu.au/) at Deakin University, Victoria, Australia. I completed my PhD degree from the Pattern Recognition and Data Analytics group (PRaDA) under the supervision of [A/Prof. Santu Rana](https://scholar.google.com.au/citations?user=S9PwnMYAAAAJ&hl=en), [A/Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/?_ga=2.184104422.1753328289.1661431642-1906180909.1656474726), [Dr. Thin Nguyen](https://scholar.google.com.au/citations?user=BlTfdtMAAAAJ) and [Alfred Deakin Prof. Svetha Venkatesh](https://svethav.github.io/) in the year 2018.
+I am a Postdoctoral Research Fellow at [Applied Artificial Intelligence Institute](https://a2i2.deakin.edu.au/) at Deakin University, Victoria, Australia. I completed my PhD degree from the Centre for Pattern Recognition and Data Analytics group (PRaDA) under the supervision of [A/Prof. Santu Rana](https://scholar.google.com.au/citations?user=S9PwnMYAAAAJ&hl=en), [A/Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/?_ga=2.184104422.1753328289.1661431642-1906180909.1656474726), [Dr. Thin Nguyen](https://scholar.google.com.au/citations?user=BlTfdtMAAAAJ) and [Alfred Deakin Prof. Svetha Venkatesh](https://svethav.github.io/) in the year 2018.
 
 Research Interest
 ======
@@ -16,6 +16,7 @@ Artificial Intelligence systems are vulnerable to various types of attacks such 
 
 News
 ======
+- **July 2024**: Delivered a talk about AI Security at IEEE Student Branch, Deakin Univeristy.
 - **April 2024**: Our paper "Composite Concept Extraction through Backdooring" got accepted into Fine-Grained Visual Categorization, CVPR 2024 workshop.
 - **March 2024**: Delivered a keynote talk at the Second International Conference on FOSS Approaches towards Computational Intelligence and Language Technology (FOSS-CIL T24). 
 - **Jan 2024** : Served as a panellist in the Black in AI Emerging Leaders Grad prep program entitled, “MSc/Ph.D: What to expect".
