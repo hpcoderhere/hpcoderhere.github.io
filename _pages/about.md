@@ -16,7 +16,8 @@ Artificial Intelligence systems are vulnerable to various types of attacks such 
 
 News
 ======
-- **Novermber 2024**: Our paper "Composite Concept Extraction through Backdooring" got accepted into ICPR 2024.
+- **December 2024**: Our paper "Targeted Manifold Manipulation Against Adversarial Attacks" got accepted in IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2025.
+- **October 2024**: Our paper "Composite Concept Extraction through Backdooring" got accepted into ICPR 2024.
 - **July 2024**: Delivered a talk about AI Security at IEEE Student Branch, Deakin Univeristy.
 - **July 2024**: Our paper "Revisiting the Dataset Bias Problem from a Statistical Perspective" got accepted in ECAI 2024.
 - **April 2024**: Our paper "Composite Concept Extraction through Backdooring" got accepted into Fine-Grained Visual Categorization, CVPR 2024 workshop.
